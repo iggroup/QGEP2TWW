@@ -1,0 +1,4 @@
+DROP SCHEMA qgep_swmm CASCADE;
+DROP SCHEMA qgep_conthey CASCADE;
+DROP SCHEMA qgep_report CASCADE;
+DROP SCHEMA qgep_ig CASCADE;
